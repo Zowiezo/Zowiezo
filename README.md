@@ -11,14 +11,14 @@ I am a fullstack JS developer from JHB, South Afroca
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zolekakubheka/)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-FE7A16?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/zowie_codes_/)
-
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D12F7B?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/zowie_codes_/)
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ZolekaRK)
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zrnkubheka)
+
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Zoey_Kubheka)
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zrnkubheka)
 
 <br>
 <br>
