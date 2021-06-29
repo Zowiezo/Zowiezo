@@ -2,10 +2,14 @@
    <h1>😄 Hi there, I'm <a href="https://zowie.co.za">Zowie</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
 </div>
 
-I am a frontend developer | UX/UI designer from JHB, South Afroca 
+I am a frontend developer | UX/UI designer from JHB, South Africa 
 
 - 😄 Pronouns: She | her
 - 🌱 I’m currently learning flutter 
+
+
+
+<img align='right' src="https://media.giphy.com/media/jgmcoDNMgtJaWvgwBD/giphy.gif" width="250">
 
 <br>
 
@@ -33,6 +37,7 @@ I am a frontend developer | UX/UI designer from JHB, South Afroca
 <br>
 <br>
 
+<img src="https://media.giphy.com/media/2rpAwyj0WfAO0tpYLy/giphy.gif" width="60"> <em><b>I love connecting with different people </b> :)</em>
 <!--
 **Zowiezo/Zowiezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
