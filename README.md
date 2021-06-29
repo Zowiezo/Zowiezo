@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Zowie] (https://zowie.co.za)  👋
 
 I am a fullstack JS developer from JHB, South Afroca 
 
@@ -7,7 +7,7 @@ I am a fullstack JS developer from JHB, South Afroca
 
 <br>
 
-## Connect with me
+## 🙋‍♂️ Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zolekakubheka/)
 
@@ -23,7 +23,7 @@ I am a fullstack JS developer from JHB, South Afroca
 <br>
 <br>
 
-## Expertise
+## 📕 Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%3FB27F" />
