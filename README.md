@@ -2,7 +2,7 @@
 
 I am a fullstack JS developer from JHB, South Afroca 
 
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her/hers
 - 🌱 I’m currently learning flutter 
 
 <br>
