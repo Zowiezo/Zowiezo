@@ -2,7 +2,7 @@
    <h1>😄 Hi there, I'm <a href="https://zowie.co.za">Zowie</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
 </div>
 
-I am a fullstack JS developer from JHB, South Afroca 
+I am a frontend developer & UX/UI designer from JHB, South Afroca 
 
 - 😄 Pronouns: She/her/hers
 - 🌱 I’m currently learning flutter 
